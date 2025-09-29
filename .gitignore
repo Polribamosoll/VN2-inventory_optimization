@@ -1,0 +1,13 @@
+# Ignore competition datasets,they might be to heavy
+data/
+*.csv
+*.xls
+*.xlsx
+*.png
+
+# Ignore Python cache and checkpoints
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
