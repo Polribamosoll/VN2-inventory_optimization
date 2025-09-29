@@ -1,0 +1,6 @@
+[submodule "src/forecasting"]
+	path = src/forecasting
+	url = https://github.com/ipveka/Forecaster.git
+[submodule "utils/forecasting"]
+	path = utils/forecasting
+	url = https://github.com/ipveka/Forecaster.git
